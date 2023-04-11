@@ -30,3 +30,8 @@
 
 ![](http://pics.landcover100.com/pics/6241778738d1e.jpg)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ruiduobao/shengshixian.com&type=Date)](https://star-history.com/#ruiduobao/shengshixian.com&Date)
+
+
